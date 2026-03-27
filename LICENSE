@@ -1,18 +1,40 @@
-智能日程工具 (Smart Schedule Tool)
-Copyright (C) 2026 诗弦绸履
+MIT License
 
-本项目采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0) 进行许可。
-完整协议文本请参阅：https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
+Copyright (c) 2026 诗弦绸履
 
-您可以自由地：
-- 共享 — 在任何媒介以任何形式复制、发行本作品
-- 演绎 — 修改、转换或以本作品为基础进行创作
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-惟须遵守下列条款：
-- 署名 — 您必须给出适当的署名，提供指向本许可协议的链接，并指出是否进行了修改。
-- 非商业性使用 — 您不得将本作品用于商业目的。
-- 相同方式共享 — 如果您再混合、转换或者基于本作品进行创作，您必须基于与原先许可协议相同的许可协议分发您的作品。
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-关于商业用途的特别说明：
-本项目默认禁止用于任何商业目的。如您有商业使用的需求，请联系作者进行单独授权。
-联系人：诗弦绸履
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+---
+附加商业使用条款（Addendum for Commercial Use）
+
+本软件采用 MIT 开源协议发布，允许个人用户免费、自由地使用、修改和分发。
+
+然而，为了保护作者的劳动成果并维持项目的可持续发展，特此声明以下商业使用限制：
+
+1. 个人/非商业用途：完全免费。您可以随意使用、修改、分发，无需任何授权。
+
+2. 商业用途限制：
+   - 禁止行为：任何个人或公司，不得直接将本项目代码或其修改版本，作为独立的收费产品（如付费软件、SaaS 服务、插件等）进行销售或牟利。
+   - 允许行为：如果您希望将本项目用于商业目的并从中获利，必须事先与作者联系，签订商业授权协议。
+
+3. 分成模式：
+   - 作者欢迎商业合作。对于基于本项目开发的收费产品，作者要求获得一定比例的持续流水分成（具体比例可商议）。
+   - 签订授权协议后，您将获得“商业使用许可”，可合法地在您的产品中使用本项目代码，且不受上述“禁止行为”的限制。
